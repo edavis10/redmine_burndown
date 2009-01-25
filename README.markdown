@@ -21,4 +21,7 @@ and then running:
   
 Copyright (c) 2009 [Scrum Alliance](www.scrumalliance.org), released under the MIT license. 
 
-Authored by [Dan Hodos](mailto:danhodos[at]gmail[dot]com)
+Authored by:
+
+* [Dan Hodos](mailto:danhodos[at]gmail[dot]com)
+* [Doug Alcorn](mailto:dougalcorn[at]gmail[dot]com)
